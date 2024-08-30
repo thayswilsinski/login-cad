@@ -89,7 +89,7 @@ Conexão com a Internet para carregar o Bootstrap a partir da CDN.
 Abrir a Página de Login: Acesse login.html em um navegador.
 Preencher o Formulário de Login: Insira e-mail, senha e CPF. Clique no botão "ACESSAR" para ser redirecionado para a página de cadastro.
 Usar a Página de Cadastro: Em cadastro.html, preencha os campos e salve os dados. Use os botões para editar ou excluir registros na tabela.
-Se precisar de mais ajustes ou informações adicionais, é só me avisar!
+
 
 
 
